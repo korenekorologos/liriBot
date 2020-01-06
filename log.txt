@@ -1,0 +1,343 @@
+
+pink concert information:
+pink concert information:
+pink concert information:
+pink concert information:
+That is not a command that I recognize, please try again.
+That is not a command that I recognize, please try again.
+lauv concert information:
+Venue: Fundidora Park
+Location: Monterrey, Mexico
+Date: 03/20/2020
+Venue: El Plaza Condesa
+Location: Ciudad De México, Mexico
+Date: 03/23/2020
+Venue: Domos Art
+Location: Lima, Peru
+Date: 03/25/2020
+Venue: Teatro Vorterix
+Location: Buenos Aires, Argentina
+Date: 03/30/2020
+Venue: Lisbon Coliseum
+Location: Lisbon, Portugal
+Date: 05/11/2020
+Venue: Sala Riviera
+Location: Madrid, Spain
+Date: 05/13/2020
+Venue: Razzmatazz
+Location: Barcelona, Spain
+Date: 05/14/2020
+Venue: Fabrique
+Location: Milan, Italy
+Date: 05/16/2020
+Venue: Club Le Transbordeur
+Location: Lyon, France
+Date: 05/18/2020
+Venue: X-tra
+Location: Zurich, Switzerland
+Date: 05/19/2020
+Venue: Gasometer
+Location: Wien, Austria
+Date: 05/20/2020
+Venue: Palladium Riga
+Location: Rīga, Latvia
+Date: 05/24/2020
+Venue: Arenan Fryshuset
+Location: Stockholm, Sweden
+Date: 05/26/2020
+Venue: Sentrum Scene
+Location: Oslo, Norway
+Date: 05/28/2020
+Venue: Vega
+Location: Vesterbro, Denmark
+Date: 05/30/2020
+Venue: Manpho Convention Center
+Location: Bengaluru, 
+Date: 06/16/2020
+Venue: NSCI Dome
+Location: Mumbai, 
+Date: 06/18/2020
+Location: Beijing, 
+Venue: Beijing Exhibition Center Theatre
+Date: 06/21/2020
+Venue: Modern Sky Lab
+Location: Shanghai, 
+Date: 06/23/2020
+Location: Taipei, 
+Date: 06/25/2020
+Venue: Istora Senyan
+Location: Jakarta, 
+Date: 06/27/2020
+Venue: Legacy Max
+nightly concert information:
+Venue: The Abbey
+Location: Nashville, TN
+Date: 01/16/2020
+Venue: Vinyl ATL
+Location: Atlanta, GA
+Date: 01/17/2020
+Venue: The Pour House Music Hall
+Location: Raleigh, NC
+Date: 01/18/2020
+Venue: Gallery5
+Location: Richmond, VA
+Date: 01/19/2020
+Venue: Middle East
+Location: Cambridge, MA
+Date: 01/21/2020
+Venue: Baby's All Right
+Location: Brooklyn, NY
+Date: 01/23/2020
+Venue: Milkboy
+Location: Philadelphia, PA
+Date: 01/24/2020
+Venue: Thunderbird Cafe
+Location: Pittsburgh, PA
+Date: 01/25/2020
+Venue: DC9
+Location: Washington, DC
+Date: 01/26/2020
+Venue: House of Blues Cambridge Room
+Location: Cleveland, OH
+Date: 01/28/2020
+Venue: The Basement
+Location: Columbus, OH
+Date: 01/29/2020
+Venue: The Shelter
+Location: Detroit, MI
+Date: 01/31/2020
+Venue: Beat Kitchen
+Location: Chicago, IL
+Date: 02/01/2020
+Venue: 7th Street Entry
+Location: Minneapolis, MN
+Date: 02/04/2020
+Venue: Larimer Lounge
+Location: Denver, CO
+Date: 02/06/2020
+Venue: Kilby Court
+Location: Salt Lake City, UT
+Date: 02/07/2020
+Venue: Brick & Mortar Music Hall
+Location: San Francisco, CA
+Date: 02/09/2020
+Venue: Troubadour
+Location: West Hollywood, CA
+Date: 02/11/2020
+Venue: House of Blues Voodoo Room
+Location: San Diego, CA
+Date: 02/12/2020
+Venue: Valley Bar
+Date: 02/13/2020
+Venue: The Blue Light Dallas
+Location: Dallas, TX
+Date: 02/15/2020
+Venue: The Parish
+Location: Austin, TX
+Date: 02/16/2020
+Location: Phoenix, AZ
+Date: 01/14/2020
+Venue: Mercy Lounge
+Location: Orlando, FL
+pink concert information:
+betty who concert information:
+nightly concert information:
+Venue: The Abbey
+Date: 01/14/2020
+Venue: Mercy Lounge
+Venue: Vinyl ATL
+Location: Atlanta, GA
+Date: 01/17/2020
+Venue: The Pour House Music Hall
+Location: Orlando, FL
+Date: 01/18/2020
+Venue: Gallery5
+Location: Richmond, VA
+Date: 01/19/2020
+Venue: Middle East
+Location: Cambridge, MA
+Date: 01/21/2020
+Venue: Baby's All Right
+Location: Brooklyn, NY
+Date: 01/23/2020
+Venue: Milkboy
+Location: Philadelphia, PA
+Date: 01/24/2020
+Venue: Thunderbird Cafe
+Location: Pittsburgh, PA
+Venue: DC9
+Date: 01/25/2020
+Location: Washington, DC
+Date: 01/26/2020
+Venue: House of Blues Cambridge Room
+Location: Cleveland, OH
+Date: 01/28/2020
+Venue: The Basement
+Location: Columbus, OH
+Venue: The Shelter
+Date: 01/29/2020
+Location: Detroit, MI
+Date: 01/31/2020
+Venue: Beat Kitchen
+Location: Chicago, IL
+Date: 02/01/2020
+Venue: 7th Street Entry
+Location: Minneapolis, MN
+Date: 02/04/2020
+Venue: Larimer Lounge
+Location: Denver, CO
+Date: 02/06/2020
+Venue: Kilby Court
+Location: Salt Lake City, UT
+Date: 02/07/2020
+Venue: Brick & Mortar Music Hall
+Location: San Francisco, CA
+Date: 02/09/2020
+Venue: Troubadour
+Location: West Hollywood, CA
+Date: 02/11/2020
+Venue: House of Blues Voodoo Room
+Location: San Diego, CA
+Date: 02/12/2020
+Venue: Valley Bar
+Location: Phoenix, AZ
+Date: 02/13/2020
+Location: Dallas, TX
+Date: 02/15/2020
+Venue: The Parish
+Location: Austin, TX
+Venue: The Blue Light Dallas
+Date: 02/16/2020
+Date: 01/16/2020
+Location: Raleigh, NC
+Location: Nashville, TN
+black violin concert information:
+Venue: Paramount Theatre
+Location: Denver, CO
+Date: 01/14/2020
+Venue: The Colonial Theater
+Location: Idaho Falls, ID
+Date: 01/16/2020
+Venue: Cache Valley Center For the Arts
+Location: Logan, UT
+Date: 01/17/2020
+Venue: Community Concert Hall @ Fort Lewis College
+Location: Durango, CO
+Date: 01/18/2020
+Venue: The Egyptian Theatre
+Location: Boise, ID
+Date: 01/20/2020
+Venue: Kingsbury Hall
+Location: Salt Lake City, UT
+Date: 01/21/2020
+Venue: The Granada Theatre
+Location: Santa Barbara, CA
+Date: 01/28/2020
+Venue: UNLV Performing Arts Center - Las Vegas, NV
+Location: Las Vegas, NV
+Date: 01/29/2020
+Venue: Centennial Hall
+Location: Tucson, AZ
+Date: 01/30/2020
+Venue: Chandler Center for the Arts
+Location: Chandler, AZ
+Date: 01/31/2020
+Venue: Del E. Webb Center for the Performing Arts
+Location: Wickenburg, AZ
+Date: 02/01/2020
+Venue: Bob Carr Theater
+Location: Orlando, FL
+Date: 02/08/2020
+Venue: Pensacola Saenger Theatre
+Location: Pensacola, FL
+Date: 02/11/2020
+Venue: Barbara B. Mann Performing Arts Hall at FSW
+Location: Fort Myers, FL
+Date: 02/12/2020
+Venue: Ruby Diamond Concert Hall
+Location: Tallahassee, FL
+Date: 02/13/2020
+Venue: Florida Theatre
+Location: Jacksonville, FL
+Date: 02/14/2020
+Venue: Hargray Capitol Theatre
+Location: Macon, GA
+Date: 02/15/2020
+Venue: Straz Center
+Location: Tampa, FL
+Date: 02/20/2020
+Venue: Palace Of Fine Arts Theatre
+Location: San Francisco, CA
+Date: 02/27/2020
+Venue: Turlock Community Theatre
+Location: Turlock, CA
+Date: 03/03/2020
+Venue: Ace Hotel
+Location: Los Angeles, CA
+Date: 03/05/2020
+Venue: California Center for the Arts
+Location: Escondido, CA
+Date: 03/06/2020
+Venue: The Lancaster Performing Arts Center
+Location: Lancaster, CA
+Date: 03/07/2020
+Venue: Golden State Theatre
+Location: Monterey, CA
+Date: 03/08/2020
+Venue: Cobb Energy Performing Arts Centre
+Location: Atlanta, GA
+Date: 03/20/2020
+Location: Memphis, TN
+Venue: Orpheum Theatre
+Date: 03/21/2020
+Venue: Gramercy Theatre
+Location: New York, NY
+Venue: College Street Music Hall
+Location: New Haven, CT
+Venue: Purchase College
+Date: 03/26/2020
+Location: Westchester County, NY
+Venue: Chrysler Hall
+Date: 03/27/2020
+Location: Norfolk, VA
+Date: 03/24/2020
+Venue: Clay Center for the Arts and Sciences of West Virginia
+Date: 03/29/2020
+Location: Charleston, WV
+Date: 03/31/2020
+Location: Dallas, TX
+Date: 04/05/2020
+Venue: Jones Hall For The Performing Arts
+Location: Houston, TX
+Date: 04/07/2020
+Venue: The Long Center For the Performing Arts
+Location: Austin, TX
+Venue: AT&T Performing Arts Center - Strauss Square
+Location: Providence, RI
+Date: 04/15/2020
+Venue: Palais Montcalm
+Location: Quebec, Canada
+Date: 04/16/2020
+Location: Medford, MA
+Date: 04/17/2020
+Venue: Kean Stage
+Location: Union, NJ
+Date: 04/18/2020
+Venue: Capitol Theatre
+Location: Yakima, WA
+Date: 05/05/2020
+Venue: Portland'5 Keller Auditorium
+Location: Portland, OR
+Date: 05/06/2020
+Venue: Impossible Tour
+Location: Eugene, OR
+Date: 05/07/2020
+Venue: Paramount Theatre
+Location: Seattle, WA
+Date: 05/08/2020
+Venue: Filene Center at Wolf Trap
+Location: Vienna, VA
+Date: 06/27/2020
+Date: 04/10/2020
+Venue: Impossible Tour
+Venue: Chevalier Theatre
