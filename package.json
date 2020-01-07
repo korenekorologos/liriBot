@@ -1,5 +1,5 @@
 {
-  "name": "liriBot",
+  "name": "liribot",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -21,8 +21,12 @@
     "axios": "^0.19.0",
     "dateformat": "^3.0.3",
     "dotenv": "^8.2.0",
+    "imdb-api": "^4.0.3",
     "moment": "^2.24.0",
     "node-spotify-api": "^1.1.1",
-    "request": "^2.88.0"
+    "omdb": "^0.8.0",
+    "omdb-wrapper": "^1.0.2",
+    "request": "^2.88.0",
+    "require-stack": "^1.0.2"
   }
 }

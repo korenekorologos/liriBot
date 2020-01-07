@@ -341,3 +341,1130 @@ Date: 06/27/2020
 Date: 04/10/2020
 Venue: Impossible Tour
 Venue: Chevalier Theatre
+lauv concert information:
+Location: Monterrey, Mexico
+Date: 03/23/2020
+Venue: El Plaza Condesa
+Location: Lima, Peru
+Date: 03/25/2020
+Venue: Domos Art
+Location: Buenos Aires, Argentina
+Date: 03/30/2020
+Venue: Teatro Vorterix
+Location: Lisbon, Portugal
+Date: 05/11/2020
+Venue: Lisbon Coliseum
+Location: Madrid, Spain
+Date: 05/13/2020
+Location: Barcelona, Spain
+Venue: Sala Riviera
+Date: 05/14/2020
+Venue: Razzmatazz
+Location: Milan, Italy
+Date: 05/16/2020
+Venue: Fabrique
+Location: Lyon, France
+Date: 05/18/2020
+Venue: Club Le Transbordeur
+Location: Zurich, Switzerland
+Date: 05/19/2020
+Venue: X-tra
+Location: Wien, Austria
+Date: 05/20/2020
+Venue: Gasometer
+Location: Rīga, Latvia
+Date: 05/24/2020
+Venue: Palladium Riga
+Location: Stockholm, Sweden
+Date: 05/26/2020
+Venue: Arenan Fryshuset
+Location: Oslo, Norway
+Date: 05/28/2020
+Venue: Sentrum Scene
+Location: Vesterbro, Denmark
+Date: 05/30/2020
+Venue: Vega
+Location: Bengaluru, 
+Date: 06/16/2020
+Venue: Manpho Convention Center
+Location: Mumbai, 
+Date: 06/18/2020
+Venue: NSCI Dome
+Location: Beijing, 
+Date: 06/21/2020
+Venue: Beijing Exhibition Center Theatre
+Location: Shanghai, 
+Date: 06/23/2020
+Venue: Modern Sky Lab
+Location: Taipei, 
+Date: 06/25/2020
+Date: 03/20/2020
+Venue: Legacy Max
+Location: Jakarta, 
+Date: 06/27/2020
+Venue: Istora Senyan
+Location: Ciudad De México, Mexico
+Venue: Fundidora Park
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+Celine Dion concert information:
+Location: Jacksonville, FL
+Venue: VyStar Veterans Memorial Arena
+Date: 01/08/2020
+Location: Atlanta, GA
+Date: 01/11/2020
+Venue: State Farm Arena
+Location: Nashville, TN
+Date: 01/13/2020
+Venue: Bridgestone Arena
+Location: Tampa, FL
+Date: 01/15/2020
+Venue: Amalie Arena
+Location: Miami, FL
+Date: 01/17/2020
+Venue: AmericanAirlines Arena
+Location: Miami, FL
+Date: 01/18/2020
+Venue: AmericanAirlines Arena
+Location: Charlotte, NC
+Date: 01/21/2020
+Venue: Spectrum Center
+Location: San Antonio, TX
+Venue: AT&T Center
+Date: 01/30/2020
+Location: Dallas, TX
+Date: 02/03/2020
+Venue: American Airlines Center
+Location: Tulsa, OK
+Date: 02/05/2020
+Venue: BOK Center
+Location: New Orleans, LA
+Date: 02/07/2020
+Venue: Smoothie King Center
+Location: Memphis, TN
+Date: 02/09/2020
+Venue: FedExForum
+Location: Raleigh, NC
+Date: 02/11/2020
+Venue: PNC Arena
+Location: Montreal, Canada
+Date: 02/18/2020
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 02/19/2020
+Venue: Bell Centre
+Location: Atlantic City, NJ
+Date: 02/22/2020
+Venue: Boardwalk Hall
+Location: Baltimore, MD
+Date: 02/24/2020
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Philadelphia, PA
+Date: 02/26/2020
+Venue: Wells Fargo Center
+Location: Brooklyn, NY
+Date: 02/28/2020
+Venue: Barclays Center
+Location: Brooklyn, NY
+Date: 02/29/2020
+Venue: Barclays Center
+Location: Uniondale, NY
+Date: 03/03/2020
+Venue: The New Coliseum
+Location: Brooklyn, NY
+Date: 03/05/2020
+Venue: Barclays Center
+Location: Newark, NJ
+Date: 03/07/2020
+Venue: Prudential Center
+Location: Newark, NJ
+Date: 03/08/2020
+Venue: Prudential Center
+Location: Washington, DC
+Date: 03/11/2020
+Venue: Capital One Arena
+Location: Pittsburgh, PA
+Date: 03/13/2020
+Venue: PPG Paints Arena
+Location: Denver, CO
+Date: 03/24/2020
+Venue: Pepsi Center
+Location: Salt Lake City, UT
+Date: 03/26/2020
+Venue: Vivint Smart Home Arena
+Location: Glendale, AZ
+Date: 03/29/2020
+Venue: Gila River Arena
+Location: San Diego, CA
+Date: 03/31/2020
+Venue: Pechanga Arena San Diego
+Location: Los Angeles, CA
+Date: 04/02/2020
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 04/03/2020
+Venue: Staples Center
+Location: Sacramento, CA
+Date: 04/07/2020
+Venue: Golden 1 Center
+Date: 04/09/2020
+Location: Oakland, CA
+Venue: Oakland Arena
+Location: San Francisco, CA
+Date: 04/10/2020
+Location: San Francisco, CA
+Venue: Chase Center
+Date: 04/11/2020
+Location: Portland, OR
+Venue: Chase Center
+Date: 04/13/2020
+Location: Tacoma, WA
+Venue: Moda Center
+Date: 04/15/2020
+Venue: Tacoma Dome
+Location: Vancouver, Canada
+Date: 04/17/2020
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 04/18/2020
+Venue: Rogers Arena
+Location: Edmonton, Canada
+Date: 04/21/2020
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 04/22/2020
+Venue: Rogers Place
+Location: Saskatoon, Canada
+Date: 04/25/2020
+Location: Winnipeg, Canada
+Venue: Sasktel Centre
+Venue: Bell MTS Place
+Date: 04/27/2020
+Date: 05/21/2020
+Location: Prague, Czech Republic
+Venue: O2 Arena
+Location: Łódź, Poland
+Venue: Atlas Arena
+Date: 05/23/2020
+Location: Kraków, Poland
+Date: 05/25/2020
+Venue: Tauron Arena Krakow
+Location: Merksem, Belgium
+Date: 05/28/2020
+Venue: Sportpaleis
+Date: 05/30/2020
+Location: Zürich, Switzerland
+Date: 06/02/2020
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date: 06/03/2020
+Venue: Hallenstadion
+Location: Zagreb, Croatia
+Date: 06/05/2020
+Venue: ARENA ZAGREB
+Location: Budapest, Hungary
+Date: 06/07/2020
+Venue: Papp Laszlo Arena
+Location: Amsterdam Zuidoost, Netherlands
+Venue: Sportpaleis
+Date: 06/10/2020
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/12/2020
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Venue: Ziggo Dome
+Date: 06/13/2020
+Location: Vienna, Austria
+Venue: Wiener Stadthalle - Halle D
+Date: 06/15/2020
+Location: Munich, Germany
+Location: Merksem, Belgium
+Date: 06/17/2020
+Venue: Olympiahalle
+Date: 06/19/2020
+Venue: SAP Arena
+Location: Mannheim, Germany
+Location: Cologne, Germany
+Venue: Lanxess Arena
+Date: 06/21/2020
+Location: Hamburg, Germany
+Venue: Barclaycard Arena Hamburg
+Date: 06/22/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Date: 06/26/2020
+Location: Nanterre, France
+Date: 06/27/2020
+Venue: PARIS LA DEFENSE ARENA
+Date: 06/30/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Date: 07/01/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Date: 07/03/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Date: 07/04/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Location: Noyon, France
+Date: 07/20/2020
+Location: Houston, TX
+Location: Berlin, Germany
+Venue: Plaine De L'asse
+Venue: Toyota Center
+Location: Lucca, Italy
+Venue: Waldbühne Berlin
+Date: 07/25/2020
+Location: Bucharest, Romania
+Venue: Mura di Lucca - Viale Carducci
+Date: 07/29/2020
+Venue: National Stadium Bukarest
+Location: Helsinki, Finland
+Date: 08/24/2020
+Location: Helsinki, Finland
+Venue: Hartwall Arena
+Venue: Hartwall Arena
+Date: 08/25/2020
+Location: Oslo, Norway
+Date: 08/28/2020
+Venue: Telenor Arena
+Location: Oslo, Norway
+Location: Copenhagen, Denmark
+Date: 08/31/2020
+Venue: Royal Arena
+Location: Copenhagen, Denmark
+Date: 09/01/2020
+Venue: Royal Arena
+Location: Manchester, United Kingdom
+Date: 09/04/2020
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 09/05/2020
+Venue: Manchester Arena
+Location: Birmingham, United Kingdom
+Date: 09/08/2020
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date: 09/09/2020
+Venue: Arena Birmingham
+Location: Glasgow, United Kingdom
+Date: 09/11/2020
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Venue: Telenor Arena
+Date: 09/12/2020
+Location: Dublin, Ireland
+Venue: The SSE Hydro
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 09/14/2020
+Venue: 3Arena
+Date: 09/15/2020
+Location: London, United Kingdom
+Date: 09/17/2020
+Venue: The O2
+Location: London, United Kingdom
+Date: 09/18/2020
+Venue: The O2
+Date: 08/29/2020
+Date: 02/01/2020
+Date: 07/22/2020
+Celine Dion concert information:
+Location: Atlanta, GA
+Date: 01/11/2020
+Venue: State Farm Arena
+Location: Nashville, TN
+Date: 01/13/2020
+Venue: Bridgestone Arena
+Location: Tampa, FL
+Date: 01/15/2020
+Venue: Amalie Arena
+Location: Miami, FL
+Date: 01/17/2020
+Venue: AmericanAirlines Arena
+Location: Miami, FL
+Date: 01/08/2020
+Venue: VyStar Veterans Memorial Arena
+Venue: AmericanAirlines Arena
+Location: Charlotte, NC
+Date: 01/21/2020
+Venue: Spectrum Center
+Location: San Antonio, TX
+Date: 01/30/2020
+Venue: AT&T Center
+Location: Houston, TX
+Date: 02/01/2020
+Venue: Toyota Center
+Location: Dallas, TX
+Date: 02/03/2020
+Venue: American Airlines Center
+Location: Tulsa, OK
+Date: 02/05/2020
+Venue: BOK Center
+Location: New Orleans, LA
+Date: 02/07/2020
+Venue: Smoothie King Center
+Location: Memphis, TN
+Date: 02/09/2020
+Venue: FedExForum
+Location: Raleigh, NC
+Venue: PNC Arena
+Date: 02/11/2020
+Date: 02/18/2020
+Location: Montreal, Canada
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 02/19/2020
+Venue: Bell Centre
+Location: Atlantic City, NJ
+Date: 02/22/2020
+Location: Baltimore, MD
+Venue: Boardwalk Hall
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Philadelphia, PA
+Date: 02/26/2020
+Venue: Wells Fargo Center
+Location: Brooklyn, NY
+Date: 02/28/2020
+Venue: Barclays Center
+Location: Brooklyn, NY
+Date: 02/29/2020
+Venue: Barclays Center
+Location: Uniondale, NY
+Date: 03/03/2020
+Venue: The New Coliseum
+Location: Brooklyn, NY
+Date: 03/05/2020
+Venue: Barclays Center
+Location: Newark, NJ
+Date: 03/07/2020
+Venue: Prudential Center
+Location: Newark, NJ
+Date: 03/08/2020
+Venue: Prudential Center
+Location: Washington, DC
+Date: 03/11/2020
+Venue: Capital One Arena
+Location: Pittsburgh, PA
+Date: 03/13/2020
+Venue: PPG Paints Arena
+Location: Denver, CO
+Date: 03/24/2020
+Venue: Pepsi Center
+Location: Salt Lake City, UT
+Date: 03/26/2020
+Location: Glendale, AZ
+Date: 03/29/2020
+Venue: Gila River Arena
+Venue: Vivint Smart Home Arena
+Location: San Diego, CA
+Venue: Pechanga Arena San Diego
+Date: 03/31/2020
+Date: 04/02/2020
+Location: Los Angeles, CA
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 04/03/2020
+Date: 01/18/2020
+Location: Sacramento, CA
+Date: 04/07/2020
+Venue: Golden 1 Center
+Location: Oakland, CA
+Date: 04/09/2020
+Venue: Oakland Arena
+Date: 04/10/2020
+Location: San Francisco, CA
+Location: San Francisco, CA
+Date: 04/11/2020
+Venue: Chase Center
+Date: 04/13/2020
+Location: Jacksonville, FL
+Venue: Moda Center
+Location: Tacoma, WA
+Date: 04/15/2020
+Location: Portland, OR
+Venue: Tacoma Dome
+Date: 04/17/2020
+Location: Vancouver, Canada
+Venue: Rogers Arena
+Venue: Chase Center
+Location: Vancouver, Canada
+Date: 04/18/2020
+Venue: Rogers Arena
+Location: Edmonton, Canada
+Date: 04/21/2020
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 04/22/2020
+Venue: Rogers Place
+Location: Saskatoon, Canada
+Date: 04/25/2020
+Venue: Sasktel Centre
+Location: Winnipeg, Canada
+Date: 04/27/2020
+Venue: Bell MTS Place
+Location: Prague, Czech Republic
+Date: 05/21/2020
+Venue: O2 Arena
+Location: Łódź, Poland
+Date: 05/23/2020
+Venue: Atlas Arena
+Location: Kraków, Poland
+Date: 05/25/2020
+Venue: Tauron Arena Krakow
+Location: Merksem, Belgium
+Date: 05/28/2020
+Venue: Sportpaleis
+Location: Merksem, Belgium
+Date: 05/30/2020
+Venue: Sportpaleis
+Location: Zürich, Switzerland
+Date: 06/02/2020
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Venue: Hallenstadion
+Location: Zagreb, Croatia
+Venue: Staples Center
+Date: 06/05/2020
+Venue: ARENA ZAGREB
+Location: Budapest, Hungary
+Date: 06/07/2020
+Venue: Papp Laszlo Arena
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/10/2020
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/12/2020
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/13/2020
+Venue: Ziggo Dome
+Location: Vienna, Austria
+Date: 06/15/2020
+Venue: Wiener Stadthalle - Halle D
+Location: Munich, Germany
+Date: 06/17/2020
+Venue: Olympiahalle
+Location: Mannheim, Germany
+Date: 06/19/2020
+Venue: SAP Arena
+Location: Cologne, Germany
+Date: 06/21/2020
+Venue: Lanxess Arena
+Location: Hamburg, Germany
+Date: 06/22/2020
+Venue: Barclaycard Arena Hamburg
+Location: Nanterre, France
+Date: 06/26/2020
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/27/2020
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/30/2020
+Venue: PARIS LA DEFENSE ARENA
+Date: 07/01/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Date: 07/03/2020
+Date: 07/04/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Location: Noyon, France
+Date: 07/20/2020
+Venue: Plaine De L'asse
+Location: Berlin, Germany
+Date: 07/22/2020
+Venue: Waldbühne Berlin
+Location: Lucca, Italy
+Date: 07/25/2020
+Location: Bucharest, Romania
+Venue: Mura di Lucca - Viale Carducci
+Date: 07/29/2020
+Venue: National Stadium Bukarest
+Location: Helsinki, Finland
+Date: 08/24/2020
+Venue: Hartwall Arena
+Location: Helsinki, Finland
+Date: 08/25/2020
+Venue: Hartwall Arena
+Location: Oslo, Norway
+Date: 08/28/2020
+Venue: Telenor Arena
+Location: Oslo, Norway
+Date: 08/29/2020
+Venue: Telenor Arena
+Location: Copenhagen, Denmark
+Date: 08/31/2020
+Venue: Royal Arena
+Location: Copenhagen, Denmark
+Venue: Royal Arena
+Date: 09/01/2020
+Location: Manchester, United Kingdom
+Date: 09/04/2020
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 09/05/2020
+Venue: Manchester Arena
+Location: Birmingham, United Kingdom
+Date: 09/08/2020
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date: 09/09/2020
+Venue: Arena Birmingham
+Location: Glasgow, United Kingdom
+Date: 09/11/2020
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Date: 09/12/2020
+Venue: The SSE Hydro
+Location: Dublin, Ireland
+Date: 09/14/2020
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 09/15/2020
+Venue: 3Arena
+Location: London, United Kingdom
+Date: 09/17/2020
+Venue: The O2
+Location: London, United Kingdom
+Date: 09/18/2020
+Venue: The O2
+Date: 06/03/2020
+Venue: Ziggo Dome
+Date: 02/24/2020
+Celine Dion concert information:
+Location: Atlanta, GA
+Date: 01/11/2020
+Venue: State Farm Arena
+Location: Nashville, TN
+Date: 01/13/2020
+Venue: Bridgestone Arena
+Location: Tampa, FL
+Date: 01/15/2020
+Venue: Amalie Arena
+Location: Miami, FL
+Date: 01/17/2020
+Venue: AmericanAirlines Arena
+Location: Miami, FL
+Date: 01/18/2020
+Venue: AmericanAirlines Arena
+Location: Charlotte, NC
+Date: 01/21/2020
+Venue: Spectrum Center
+Location: San Antonio, TX
+Date: 01/30/2020
+Venue: AT&T Center
+Location: Houston, TX
+Date: 02/01/2020
+Venue: Toyota Center
+Location: Dallas, TX
+Date: 02/03/2020
+Venue: American Airlines Center
+Location: Tulsa, OK
+Date: 02/05/2020
+Venue: BOK Center
+Location: New Orleans, LA
+Date: 02/07/2020
+Venue: Smoothie King Center
+Location: Memphis, TN
+Date: 02/09/2020
+Venue: FedExForum
+Location: Raleigh, NC
+Date: 02/11/2020
+Venue: PNC Arena
+Location: Montreal, Canada
+Date: 02/18/2020
+Venue: Bell Centre
+Location: Montreal, Canada
+Date: 02/19/2020
+Venue: Bell Centre
+Location: Atlantic City, NJ
+Date: 02/22/2020
+Venue: Boardwalk Hall
+Location: Baltimore, MD
+Date: 02/24/2020
+Venue: Royal Farms Arena (formerly Baltimore Arena)
+Location: Philadelphia, PA
+Date: 02/26/2020
+Venue: Wells Fargo Center
+Location: Brooklyn, NY
+Date: 02/28/2020
+Venue: Barclays Center
+Location: Brooklyn, NY
+Date: 02/29/2020
+Venue: Barclays Center
+Location: Uniondale, NY
+Date: 03/03/2020
+Venue: The New Coliseum
+Location: Brooklyn, NY
+Date: 03/05/2020
+Venue: Barclays Center
+Location: Newark, NJ
+Date: 03/07/2020
+Venue: Prudential Center
+Location: Newark, NJ
+Date: 03/08/2020
+Venue: Prudential Center
+Location: Washington, DC
+Date: 03/11/2020
+Venue: Capital One Arena
+Location: Pittsburgh, PA
+Date: 03/13/2020
+Venue: PPG Paints Arena
+Date: 03/24/2020
+Location: Denver, CO
+Venue: Pepsi Center
+Location: Salt Lake City, UT
+Date: 03/26/2020
+Venue: Vivint Smart Home Arena
+Location: Glendale, AZ
+Date: 03/29/2020
+Venue: Gila River Arena
+Location: San Diego, CA
+Date: 03/31/2020
+Venue: Pechanga Arena San Diego
+Location: Los Angeles, CA
+Date: 04/02/2020
+Venue: Staples Center
+Location: Los Angeles, CA
+Date: 04/03/2020
+Venue: Staples Center
+Location: Sacramento, CA
+Date: 04/07/2020
+Venue: Golden 1 Center
+Location: Oakland, CA
+Date: 04/09/2020
+Venue: Oakland Arena
+Location: San Francisco, CA
+Date: 04/10/2020
+Venue: Chase Center
+Location: San Francisco, CA
+Date: 04/11/2020
+Venue: Chase Center
+Location: Portland, OR
+Date: 04/13/2020
+Venue: Moda Center
+Location: Tacoma, WA
+Date: 04/15/2020
+Venue: Tacoma Dome
+Location: Vancouver, Canada
+Date: 04/17/2020
+Venue: Rogers Arena
+Location: Vancouver, Canada
+Date: 04/18/2020
+Venue: Rogers Arena
+Location: Edmonton, Canada
+Date: 04/21/2020
+Venue: Rogers Place
+Location: Edmonton, Canada
+Date: 04/22/2020
+Location: Saskatoon, Canada
+Venue: Rogers Place
+Date: 04/25/2020
+Location: Winnipeg, Canada
+Venue: Sasktel Centre
+Date: 04/27/2020
+Location: Prague, Czech Republic
+Venue: Bell MTS Place
+Date: 05/21/2020
+Location: Łódź, Poland
+Venue: O2 Arena
+Date: 05/23/2020
+Location: Kraków, Poland
+Venue: Atlas Arena
+Date: 05/25/2020
+Venue: Tauron Arena Krakow
+Location: Merksem, Belgium
+Date: 05/28/2020
+Venue: Sportpaleis
+Location: Merksem, Belgium
+Date: 05/30/2020
+Venue: Sportpaleis
+Location: Zürich, Switzerland
+Date: 06/02/2020
+Venue: Hallenstadion
+Location: Zürich, Switzerland
+Date: 06/03/2020
+Venue: Hallenstadion
+Location: Zagreb, Croatia
+Date: 06/05/2020
+Venue: ARENA ZAGREB
+Location: Budapest, Hungary
+Date: 06/07/2020
+Venue: Papp Laszlo Arena
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/10/2020
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/12/2020
+Venue: Ziggo Dome
+Location: Amsterdam Zuidoost, Netherlands
+Date: 06/13/2020
+Venue: Ziggo Dome
+Location: Vienna, Austria
+Date: 06/15/2020
+Venue: Wiener Stadthalle - Halle D
+Location: Munich, Germany
+Date: 06/17/2020
+Venue: Olympiahalle
+Location: Mannheim, Germany
+Date: 06/19/2020
+Venue: SAP Arena
+Location: Cologne, Germany
+Date: 06/21/2020
+Venue: Lanxess Arena
+Location: Hamburg, Germany
+Date: 06/22/2020
+Venue: Barclaycard Arena Hamburg
+Location: Nanterre, France
+Date: 06/26/2020
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/27/2020
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 06/30/2020
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 07/01/2020
+Venue: PARIS LA DEFENSE ARENA
+Date: 07/03/2020
+Location: Nanterre, France
+Venue: PARIS LA DEFENSE ARENA
+Location: Nanterre, France
+Date: 07/04/2020
+Venue: PARIS LA DEFENSE ARENA
+Location: Noyon, France
+Date: 07/20/2020
+Venue: Plaine De L'asse
+Location: Berlin, Germany
+Date: 07/22/2020
+Venue: Waldbühne Berlin
+Location: Lucca, Italy
+Date: 07/25/2020
+Venue: Mura di Lucca - Viale Carducci
+Location: Bucharest, Romania
+Date: 07/29/2020
+Venue: National Stadium Bukarest
+Location: Helsinki, Finland
+Date: 08/24/2020
+Venue: Hartwall Arena
+Location: Helsinki, Finland
+Date: 08/25/2020
+Venue: Hartwall Arena
+Location: Oslo, Norway
+Date: 08/28/2020
+Venue: Telenor Arena
+Location: Oslo, Norway
+Date: 08/29/2020
+Venue: Telenor Arena
+Location: Copenhagen, Denmark
+Date: 08/31/2020
+Venue: Royal Arena
+Location: Copenhagen, Denmark
+Date: 09/01/2020
+Venue: Royal Arena
+Location: Manchester, United Kingdom
+Date: 09/04/2020
+Venue: Manchester Arena
+Location: Manchester, United Kingdom
+Date: 09/05/2020
+Venue: Manchester Arena
+Location: Birmingham, United Kingdom
+Date: 09/08/2020
+Venue: Arena Birmingham
+Location: Birmingham, United Kingdom
+Date: 09/09/2020
+Venue: Arena Birmingham
+Location: Glasgow, United Kingdom
+Venue: The SSE Hydro
+Location: Glasgow, United Kingdom
+Date: 09/11/2020
+Date: 09/12/2020
+Venue: The SSE Hydro
+Location: Dublin, Ireland
+Date: 09/14/2020
+Venue: 3Arena
+Location: Dublin, Ireland
+Date: 09/15/2020
+Venue: 3Arena
+Location: London, United Kingdom
+Date: 09/17/2020
+Venue: The O2
+Location: London, United Kingdom
+Date: 09/18/2020
+Venue: The O2
+Location: Jacksonville, FL
+Date: 01/08/2020
+Venue: VyStar Veterans Memorial Arena
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+lauv concert information:
+Location: Monterrey, Mexico
+Location: Ciudad De México, Mexico
+Venue: El Plaza Condesa
+Location: Lima, Peru
+Date: 03/25/2020
+Venue: Domos Art
+Location: Buenos Aires, Argentina
+Date: 03/30/2020
+Venue: Teatro Vorterix
+Location: Lisbon, Portugal
+Date: 05/11/2020
+Venue: Lisbon Coliseum
+Location: Madrid, Spain
+Date: 05/13/2020
+Venue: Sala Riviera
+Location: Barcelona, Spain
+Date: 05/14/2020
+Venue: Razzmatazz
+Location: Milan, Italy
+Date: 05/16/2020
+Venue: Fabrique
+Location: Lyon, France
+Date: 05/18/2020
+Venue: Club Le Transbordeur
+Location: Zurich, Switzerland
+Date: 05/19/2020
+Venue: X-tra
+Location: Wien, Austria
+Date: 05/20/2020
+Venue: Gasometer
+Location: Rīga, Latvia
+Date: 05/24/2020
+Venue: Palladium Riga
+Location: Stockholm, Sweden
+Date: 05/26/2020
+Venue: Arenan Fryshuset
+Location: Oslo, Norway
+Date: 05/28/2020
+Venue: Sentrum Scene
+Location: Vesterbro, Denmark
+Date: 05/30/2020
+Venue: Vega
+Location: Bengaluru, 
+Date: 06/16/2020
+Venue: Manpho Convention Center
+Location: Mumbai, 
+Date: 06/18/2020
+Venue: NSCI Dome
+Location: Beijing, 
+Date: 06/21/2020
+Venue: Beijing Exhibition Center Theatre
+Location: Shanghai, 
+Date: 06/23/2020
+Venue: Modern Sky Lab
+Location: Taipei, 
+Date: 06/25/2020
+Location: Jakarta, 
+Venue: Legacy Max
+Venue: Istora Senyan
+Date: 06/27/2020
+Venue: Fundidora Park
+Date: 03/23/2020
+Date: 03/20/2020
+Title: Drive
+Rated: R
+IMDB Rating: undefined
+Country: USA
+Language: English, Spanish
+Plot: A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama.
+Actors: Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/drive_2011/
+Year: 2011
+That's not familiar to me, please try again.
+nightly concert information:
+Location: Orlando, FL
+Venue: The Abbey
+Date: 01/16/2020
+Venue: Mercy Lounge
+Location: Atlanta, GA
+Date: 01/17/2020
+Venue: Vinyl ATL
+Location: Raleigh, NC
+Date: 01/18/2020
+Venue: The Pour House Music Hall
+Location: Richmond, VA
+Date: 01/19/2020
+Venue: Gallery5
+Location: Cambridge, MA
+Date: 01/21/2020
+Venue: Middle East
+Location: Brooklyn, NY
+Date: 01/23/2020
+Venue: Baby's All Right
+Location: Philadelphia, PA
+Date: 01/24/2020
+Venue: Milkboy
+Location: Pittsburgh, PA
+Date: 01/25/2020
+Venue: Thunderbird Cafe
+Location: Washington, DC
+Date: 01/26/2020
+Venue: DC9
+Location: Cleveland, OH
+Date: 01/28/2020
+Venue: House of Blues Cambridge Room
+Location: Columbus, OH
+Date: 01/29/2020
+Venue: The Basement
+Location: Detroit, MI
+Venue: The Shelter
+Location: Chicago, IL
+Date: 02/01/2020
+Venue: Beat Kitchen
+Location: Minneapolis, MN
+Date: 02/04/2020
+Venue: 7th Street Entry
+Location: Denver, CO
+Date: 02/06/2020
+Venue: Larimer Lounge
+Date: 01/31/2020
+Location: Salt Lake City, UT
+Date: 02/07/2020
+Venue: Kilby Court
+Location: San Francisco, CA
+Date: 02/09/2020
+Venue: Brick & Mortar Music Hall
+Location: West Hollywood, CA
+Date: 02/11/2020
+Venue: Troubadour
+Location: San Diego, CA
+Date: 02/12/2020
+Venue: House of Blues Voodoo Room
+Location: Phoenix, AZ
+Date: 02/13/2020
+Venue: Valley Bar
+Location: Dallas, TX
+Date: 02/15/2020
+Venue: The Blue Light Dallas
+Location: Austin, TX
+Date: 02/16/2020
+Venue: The Parish
+Date: 01/14/2020
+Location: Nashville, TN
+Title: Jaws
+Rated: PG
+IMDB Rating: undefined
+Country: USA
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/jaws/
+Year: 1975
+Title: Drive
+Country: USA
+Language: English, Spanish
+Plot: A mysterious Hollywood stuntman and mechanic moonlights as a getaway driver and finds himself in trouble when he helps out his neighbor in this action drama.
+Actors: Ryan Gosling, Carey Mulligan, Bryan Cranston, Albert Brooks
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/drive_2011/
+Year: 2011
+Rated: R
+IMDB Rating: undefined
+Title: Clueless
+Year: 1995
+Rated: PG-13
+IMDB Rating: undefined
+Country: USA
+Language: English, Spanish
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/school_of_senses/
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+That's not familiar to me, please try again.
+phantogram concert information:
+powers concert information:
+nightly concert information:
+Location: Orlando, FL
+Venue: The Abbey
+Date: 01/14/2020
+Location: Nashville, TN
+Date: 01/16/2020
+Venue: Mercy Lounge
+Location: Atlanta, GA
+Date: 01/17/2020
+Venue: Vinyl ATL
+Location: Raleigh, NC
+Date: 01/18/2020
+Venue: The Pour House Music Hall
+Location: Richmond, VA
+Date: 01/19/2020
+Venue: Gallery5
+Location: Cambridge, MA
+Date: 01/21/2020
+Venue: Middle East
+Location: Brooklyn, NY
+Date: 01/23/2020
+Venue: Baby's All Right
+Location: Philadelphia, PA
+Date: 01/24/2020
+Venue: Milkboy
+Location: Pittsburgh, PA
+Date: 01/25/2020
+Venue: Thunderbird Cafe
+Location: Washington, DC
+Date: 01/26/2020
+Venue: DC9
+Location: Cleveland, OH
+Date: 01/28/2020
+Venue: House of Blues Cambridge Room
+Location: Columbus, OH
+Date: 01/29/2020
+Venue: The Basement
+Location: Detroit, MI
+Date: 01/31/2020
+Venue: The Shelter
+Location: Chicago, IL
+Date: 02/01/2020
+Venue: Beat Kitchen
+Location: Minneapolis, MN
+Date: 02/04/2020
+Venue: 7th Street Entry
+Location: Denver, CO
+Date: 02/06/2020
+Location: Salt Lake City, UT
+Location: San Francisco, CA
+Date: 02/09/2020
+Venue: Brick & Mortar Music Hall
+Location: West Hollywood, CA
+Date: 02/11/2020
+Venue: Troubadour
+Location: San Diego, CA
+Date: 02/12/2020
+Venue: House of Blues Voodoo Room
+Location: Phoenix, AZ
+Date: 02/13/2020
+Venue: Valley Bar
+Location: Dallas, TX
+Date: 02/15/2020
+Venue: The Blue Light Dallas
+Location: Austin, TX
+Date: 02/16/2020
+Venue: The Parish
+Venue: Larimer Lounge
+Date: 02/07/2020
+Venue: Kilby Court
+That's not familiar to me, please try again.
+Title: Rocky
+IMDB Rating: undefined
+Country: USA
+Language: English
+Plot: A small-time boxer gets a supremely rare chance to fight a heavy-weight champion in a bout in which he strives to go the distance for his self-respect.
+Actors: Sylvester Stallone, Talia Shire, Burt Young, Carl Weathers
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/1017776-rocky/
+Rated: PG
+Year: 1976

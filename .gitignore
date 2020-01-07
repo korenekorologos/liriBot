@@ -1,6 +1,13 @@
-
+#dependency directories 
 node_modules
+
+
 .DS_Store
+
+#enviornment variables file
 .env
+
+#logs 
 log 
 log.txt
+
