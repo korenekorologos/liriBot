@@ -4,26 +4,26 @@ LiriBot has many similarities to Siri, the difference is is that LiriBot is a LI
 
 <strong>APIS used</strong>
 
-<li>*OMDB
+<li>OMDB
 
-<li>*Spotify
+<li>Spotify
   
-<li>*Bands in Town 
+<li>Bands in Town 
 
 <strong>Languages used:</strong>
 
-<li>*Node.js
+<li>Node.js
   
-<li>*Javascript
+<li>Javascript
 
 
 <strong>Node packages used: </strong>
 
-<li>*Node-Spotify-API 
+<li>Node-Spotify-API 
 
-<li>*Axios 
+<li>Axios 
 
-<li>*Moment 
+<li>Moment 
 
-<li>*DotEnv
+<li>DotEnv
 
