@@ -14,12 +14,12 @@ var fs = require("fs")
 /******* OMDB ******/
 //node liri.js movie-this '<movie name here>'
 
-var movieThis = function (movie) {
-    if (!movie) {
-        movie = "Cook+Off" //default movie is the Cook Off
+var movieThis = function (movieName){
+    if (!movieName) {
+        movieName = "Cook+Off" //default movie is the Cook Off
     }
-    //api is from bootcamp
-    var queryUrl = "http://www.omdbapi.com/?t=" + movie + "&y=&plot=short&tomatoes=true&apikey=trilogy"; 
+    //api key is from bootcamp
+    var queryUrl = "http://www.omdbapi.com/?t=" + movieName + "&y=&plot=short&tomatoes=true&apikey=trilogy"; 
     console.log(queryUrl); 
     request(queryUrl, function (err, response, body) {   
         if (!err && response.statusCode === 200) {
@@ -47,12 +47,11 @@ var movieThis = function (movie) {
 var concertThis = function (artist) {
     var region = ""
     var queryUrl = "https://rest.bandsintown.com/artists/" + artist.replace(" ", "+") + "/events?app_id=codingbootcamp"
-  
     //url from coding bootcamp 
 
     request(queryUrl, function (err, response, body) {
         if (!err && response.statusCode === 200) {
-            var concertInfo = JSON.parse(body) //parses the data to become a javascript object
+            var concertInfo = JSON.parse(body) 
 
             outputData(artist + " concert information:")
             for (i = 0; i < concertInfo.length; i++) { //pulls the bands tour info 
@@ -73,7 +72,27 @@ var concertThis = function (artist) {
 /******* Spotify ****/
 //node liri.js spotify-this-song '<song name here>'
 
+var spotifyThisSong = function(playSong){
+    // Default should be "The Sign" by Ace of Base
+    if (!playSong){
+        playSong = "thank u next"
+    }
 
+    var spotify = new Spotify(keys.spotify);
+
+    spotify.search({type: "track", query: playSong, limit: 1}, function (err, data){
+        if (err) {
+            return console.log(err)
+        }
+
+        // Need to return Artist(s), Song Name, Album, Preview link of song from Spotify
+        var songInfo = data.tracks.items[0]
+        outputData(songInfo.artists[0].name)
+        outputData(songInfo.name)
+        outputData(songInfo.album.name)
+        outputData(songInfo.preview_url)
+    })
+}
 
 
 
@@ -81,13 +100,16 @@ var concertThis = function (artist) {
 
 /******** "I want it that way" -song *******/
 //node liri.js do-what-it-says
-
-
-
-
-
-
-
+var doWhatItSays = function() {
+    fs.readFile("random.txt", "utf8", function(err, data){
+        console.log(data); 
+        if(err){
+            return console.log(err)
+        }
+    var dataArr = data.split(",")
+    userCommand(dataArr[0], dataArr[1])
+    });
+}
 
 /********* consoles information and writes it to the log file *********/
 var outputData = function (data) {

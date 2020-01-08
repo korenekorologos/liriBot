@@ -1468,3 +1468,207 @@ Rotten tomatoes rating: undefined
 Rotten tomatoes URL: http://www.rottentomatoes.com/m/1017776-rocky/
 Rated: PG
 Year: 1976
+That's not familiar to me, please try again.
+lauv concert information:
+Location: Monterrey, Mexico
+Date: 03/20/2020
+Venue: Fundidora Park
+Location: Ciudad De México, Mexico
+Date: 03/23/2020
+Venue: El Plaza Condesa
+Location: Lima, Peru
+Date: 03/25/2020
+Venue: Domos Art
+Location: Buenos Aires, Argentina
+Date: 03/30/2020
+Venue: Teatro Vorterix
+Location: Lisbon, Portugal
+Date: 05/11/2020
+Venue: Lisbon Coliseum
+Location: Madrid, Spain
+Date: 05/13/2020
+Venue: Sala Riviera
+Location: Barcelona, Spain
+Date: 05/14/2020
+Venue: Razzmatazz
+Location: Milan, Italy
+Date: 05/16/2020
+Venue: Fabrique
+Location: Lyon, France
+Date: 05/18/2020
+Venue: Club Le Transbordeur
+Location: Zurich, Switzerland
+Date: 05/19/2020
+Venue: X-tra
+Location: Wien, Austria
+Date: 05/20/2020
+Venue: Gasometer
+Date: 05/24/2020
+Location: Rīga, Latvia
+Venue: Palladium Riga
+Location: Stockholm, Sweden
+Date: 05/26/2020
+Venue: Arenan Fryshuset
+Location: Oslo, Norway
+Date: 05/28/2020
+Venue: Sentrum Scene
+Location: Vesterbro, Denmark
+Date: 05/30/2020
+Venue: Vega
+Location: Bengaluru, 
+Date: 06/16/2020
+Venue: Manpho Convention Center
+Location: Mumbai, 
+Date: 06/18/2020
+Venue: NSCI Dome
+Location: Beijing, 
+Date: 06/21/2020
+Venue: Beijing Exhibition Center Theatre
+Location: Shanghai, 
+Date: 06/23/2020
+Venue: Modern Sky Lab
+Location: Taipei, 
+Date: 06/25/2020
+Venue: Legacy Max
+Location: Jakarta, 
+Date: 06/27/2020
+Venue: Istora Senyan
+Title: Clueless
+Year: 1995
+Rated: PG-13
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+IMDB Rating: undefined
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/school_of_senses/
+Country: USA
+Rotten tomatoes rating: undefined
+Language: English, Spanish
+That's not familiar to me, please try again.
+Title: Casablanca
+Year: 1942
+Rated: PG
+Language: English, French, German, Italian
+Plot: A cynical American expatriate struggles to decide whether or not he should help his former lover and her fugitive husband escape French Morocco.
+Actors: Humphrey Bogart, Ingrid Bergman, Paul Henreid, Claude Rains
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/1003707-casablanca/
+IMDB Rating: undefined
+Country: USA
+Title: Jaws
+Year: 1975
+Rated: PG
+Language: English
+Plot: When a killer shark unleashes chaos on a beach community, it's up to a local sheriff, a marine biologist, and an old seafarer to hunt the beast down.
+Actors: Roy Scheider, Robert Shaw, Richard Dreyfuss, Lorraine Gary
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/jaws/
+IMDB Rating: undefined
+Country: USA
+Title: Clueless
+Country: USA
+Language: English, Spanish
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/school_of_senses/
+Year: 1995
+Rated: PG-13
+IMDB Rating: undefined
+Ariana Grande
+thank u, next
+thank u, next
+null
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=0ed203b5ab04411583b3c61d581a2511
+Ace of Base
+The Sign
+The Sign (US Album) [Remastered]
+https://p.scdn.co/mp3-preview/4c463359f67dd3546db7294d236dd0ae991882ff?cid=0ed203b5ab04411583b3c61d581a2511
+Backstreet Boys
+I Want It That Way
+The Hits--Chapter One
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0ed203b5ab04411583b3c61d581a2511
+Title: Clueless
+Year: 1995
+Rated: PG-13
+Language: English, Spanish
+Plot: A rich high school student tries to boost a new pupil's popularity, but reckons without affairs of the heart getting in the way.
+Actors: Alicia Silverstone, Stacey Dash, Brittany Murphy, Paul Rudd
+Rotten tomatoes rating: undefined
+Rotten tomatoes URL: http://www.rottentomatoes.com/m/school_of_senses/
+IMDB Rating: undefined
+Country: USA
+lauv concert information:
+Location: Monterrey, Mexico
+Date: 03/20/2020
+Venue: Fundidora Park
+Location: Ciudad De México, Mexico
+Date: 03/23/2020
+Venue: El Plaza Condesa
+Location: Lima, Peru
+Date: 03/25/2020
+Venue: Domos Art
+Location: Buenos Aires, Argentina
+Date: 03/30/2020
+Venue: Teatro Vorterix
+Location: Lisbon, Portugal
+Date: 05/11/2020
+Venue: Lisbon Coliseum
+Location: Madrid, Spain
+Date: 05/13/2020
+Venue: Sala Riviera
+Location: Barcelona, Spain
+Date: 05/14/2020
+Venue: Razzmatazz
+Location: Milan, Italy
+Date: 05/16/2020
+Venue: Fabrique
+Location: Lyon, France
+Date: 05/18/2020
+Venue: Club Le Transbordeur
+Location: Zurich, Switzerland
+Date: 05/19/2020
+Venue: X-tra
+Location: Wien, Austria
+Date: 05/20/2020
+Venue: Gasometer
+Location: Rīga, Latvia
+Date: 05/24/2020
+Venue: Palladium Riga
+Location: Stockholm, Sweden
+Date: 05/26/2020
+Venue: Arenan Fryshuset
+Location: Oslo, Norway
+Date: 05/28/2020
+Venue: Sentrum Scene
+Location: Vesterbro, Denmark
+Date: 05/30/2020
+Venue: Vega
+Location: Bengaluru, 
+Date: 06/16/2020
+Venue: Manpho Convention Center
+Location: Mumbai, 
+Date: 06/18/2020
+Venue: NSCI Dome
+Venue: Beijing Exhibition Center Theatre
+Location: Beijing, 
+Date: 06/21/2020
+Date: 06/23/2020
+Location: Taipei, 
+Venue: Modern Sky Lab
+Location: Jakarta, 
+Date: 06/27/2020
+Venue: Istora Senyan
+Date: 06/25/2020
+Location: Shanghai, 
+Venue: Legacy Max
+Ariana Grande
+thank u, next
+thank u, next
+null
+Backstreet Boys
+The Hits--Chapter One
+I Want It That Way
+https://p.scdn.co/mp3-preview/e72a05dc3f69c891e3390c3ceaa77fad02f6b5f6?cid=0ed203b5ab04411583b3c61d581a2511
