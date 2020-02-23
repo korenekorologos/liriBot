@@ -1,5 +1,11 @@
 # liriBot
 
+
+<p align="center">
+  <img width="460" height="300" src="https://media.giphy.com/media/Q5veQdkR3yrXbTAp7W/giphy.gif">
+</p>
+
+
 LiriBot has many similarities to Siri, the difference is is that LiriBot is a Language Interpretation and Recognition Interface(LIRI), while Siri is not. It is a command line node app that takes in parameters and then gives you back the data.
 
 **APIs used:** <br>
