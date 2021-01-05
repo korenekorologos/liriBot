@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/korenekorologos/liriBot#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "dateformat": "^3.0.3",
     "dotenv": "^8.2.0",
     "imdb-api": "^4.0.3",
